@@ -6,6 +6,8 @@ public class FirstProgram {
 		System.out.println("happy day");
 		
 		System.out.println("new code added");
+		
+		
 	}
 
 }
